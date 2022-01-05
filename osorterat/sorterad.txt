@@ -1,0 +1,2016 @@
+Hansson, Måns [M]
+Bössgränd 373 02  RAMDALA                                        
+Lindberg, Olliver [M]
+Sandviken 710 27  DYLTABRUK                                        
+Johnsson, Eskil [M]
+Löberöd 521 29  KÄTTLISTORP                                        
+Bergström, Danny [M]
+Hagagatan 360 53  SKRUV                                        
+Fredriksson, Filip [M]
+Eggelstad 270 30  LÖVESTAD                                        
+Göransson, Anna [K]
+Klubbvägen 770 65  BY KYRKBY                                        
+Holmgren, Milo [M]
+Långgatan 683 03  RÅDA                                        
+Jonasson, Zakarias [M]
+Nästvattnet 297 30  DEGEBERGA                                        
+Lindqvist, Alina [K]
+Törneby 668 00  ED                                        
+Lindberg, Lilly [K]
+Messlingen 840 80  LILLHÄRDAL                                        
+Blom, Deborah [K]
+Karlsängen 816 02  ÅMOTSBRUK                                        
+Larsson, Jacqueline [K]
+Tulpanv 240 32  FLYINGE                                        
+Jönsson, Molly [K]
+Löberöd 310 60  ULLARED                                        
+Strömberg, Iris [K]
+Edeby 611 47  NYKÖPING                                        
+Mattsson, Adam [M]
+Kläppinge 190 70  FJÄRDHUNDRA                                        
+Åkesson, Juni [K]
+Långlöt 781 31  BORLÄNGE                                        
+Blom, Valter [M]
+Mellangården 826 00  SÖDERHAMN                                        
+Petersson, Kaspar [M]
+Mjövattnet 870 24  SKOG                                        
+Forsberg, Dina [K]
+Simpnäs 760 31  EDSBRO                                        
+Lundström, Muhammed [M]
+Östbygatan 430 41  KULLAVIK                                        
+Åberg, Yasin [M]
+Enbackagården 272 86  SIMRISHAMN                                        
+Hansson, Louisa [K]
+Södra 55, 273 85  TOMELILLA                                        
+Larsson, Rakel [K]
+Edeby 610 60  TYSTBERGA                                        
+Jonasson, Petronella [K]
+Ånhult 950 40  TÖRE                                        
+Jönsson, Kalle [M]
+Hammarvägen 920 73  GARGNÄS                                        
+Mattsson, Artin [M]
+Alsteråvägen 560 42  SANDHEM                                        
+Åström, Johnny [M]
+Skällebo 330 27  HESTRA                                        
+Gustavsson, Isidor [M]
+Hagag 443 83  LERUM                                        
+Blomqvist, Freddie [M]
+Nils Sträte 30, 161 31  BROMMA                                        
+Nordström, Viktor [M]
+Syrengården 420 17  OLOFSTORP                                        
+Axelsson, Emrik [M]
+Västra 23, 590 42  HORN                                        
+Dahlberg, Melvin [M]
+Dyvik 890 42  MELLANSEL                                        
+Magnusson, Amar [M]
+Violvägen 260 51  EKEBY                                        
+Lindqvist, Nicolas [M]
+Anders Gränd 34, 270 22  KÖPINGEBRO                                        
+Ekström, Noelia [K]
+Mållångsbo 980 64  MUODOSLOMPOLO                                        
+Eliasson, Mårten [M]
+Klörupsvägen 523 65  TVÄRRED                                        
+Magnusson, Annika [K]
+Bygget 340 12  ANNERSTAD                                        
+Andreasson, Elisa [K]
+Pite 19, 940 28  ROSVIK                                        
+Söderström, Sander [M]
+Åbyhöjden 185 41  VAXHOLM                                        
+Blomqvist, Viking [M]
+Höjdstigen 430 93  HÄLSÖ                                        
+Lindström, Rickard [M]
+Nytorpsvägen 560 25  BOTTNARYD                                        
+Bengtsson, Alan [M]
+Korsgatan 452 04  NORDKOSTER                                        
+Göransson, Vilde [M]
+Bursiljum 930 52  FÄLLFORS                                        
+Hellström, Emmelie [K]
+Storgatan 953 19  HAPARANDA                                        
+Sandberg, Frans [M]
+Nytorpsvägen 564 00  BANKERYD                                        
+Lindholm, Erica [K]
+Eriksbo 31, 430 85  BRÄNNÖ                                        
+Jonsson, Nadin [K]
+Stackekärr 820 78  HASSELA                                        
+Arvidsson, Peter [M]
+Östbygatan 439 00  ONSALA                                        
+Hedlund, Isidor [M]
+Valldammsgatan 462 33  VÄNERSBORG                                        
+Strömberg, Yasmine [K]
+Granträsk 260 83  VEJBYSTRAND                                        
+Eklund, Liv [K]
+Östantorp 95, 360 40  ROTTNE                                        
+Holmgren, Fredric [M]
+Norrfjäll 760 18  YXLAN                                        
+Hedlund, Lowe [M]
+Torvvägen 570 16  KVILLSFORS                                        
+Ström, Tove [K]
+Idvägen 360 70  ÅSEDA                                        
+Lindström, Emilie [K]
+Skällebo 330 27  HESTRA                                        
+Gunnarsson, Danny [M]
+Esplanadgatan 740 41  MORGONGÅVA                                        
+Åkesson, Sofi [K]
+Bonaröd 230 21  BEDDINGESTRAND                                        
+Samuelsson, Kira [K]
+Karlsängen 610 56  VRENA                                        
+Ivarsson, Oscar [M]
+Tuvvägen 440 33  HARESTAD                                        
+Håkansson, Laura [K]
+Vakthem 260 70  LJUBGBYHED                                        
+Sandberg, Mustafa [M]
+Klörupsvägen 523 51  TVÄRRED                                        
+Lindholm, Kevin [M]
+Mjövattnet 870 40  LUNDE                                        
+Forsberg, Eskil [M]
+Hagagatan 531 80  VINNINGA                                        
+Bergström, Sana [K]
+Anders Gränd 27, 271 88  YSTAD                                        
+Johansson, Sara [K]
+Järnvägsgatan 840 21  ERIKSLUND                                        
+Sandström, Elissa [K]
+Hålebäcksvägen 790 15  SUNDBORN                                        
+Holmgren, Aldin [M]
+Ängsgatan 686 02  ROTTNEROS                                        
+Åberg, Yara [K]
+Hålebäcksvägen 521 29  KINNARP                                        
+Axelsson, Teo [M]
+Överhogdal 281 84  HÄSSLEHOLM                                        
+Blomqvist, Caisa [K]
+Hålebäcksvägen 790 20  GRYCKSBO                                        
+Ivarsson, Zack [M]
+Fuglie 910 31  TAVELSJÖ                                        
+Lindqvist, Annie [K]
+Alingsåsvägen 510 52  MÅLSRYD                                        
+Jakobsson, Hassan [M]
+Bottna 43, 455 00  MUNKEDAL                                        
+Lundgren, Daniel [M]
+Grängsbo 65, 957 49  PELLO                                        
+Ek, Casper [M]
+Eggelstad 275 92  SJÖBO                                        
+Bengtsson, Lova [K]
+Östantorp 92, 360 42  BRAÅS                                        
+Jakobsson, Melanie [K]
+Eriksbo 20, 416 53  GÖTEBORG                                        
+Öberg, Ajla [K]
+Edeby 610 54  NÄVEKVARN                                        
+Månsson, Anders [M]
+Handslagarevägen 230 87  KLAGSHMAN                                        
+Bergqvist, Milo [M]
+Främsteby 85, 376 00  SVÄNGSTA                                        
+Jansson, Patricia [K]
+Långgatan 566 00  HABO                                        
+Hansson, Yasin [M]
+Östanlid 447 00  VÅRGÅRDA                                        
+Johansson, Dana [K]
+Edeby 610 53  ENSTABERGA                                        
+Åberg, Eveline [K]
+Libecksvägen 690 71  HJORTKVARN                                        
+Holmgren, Mauritz [M]
+Karlsängen 140 41  SORUNDA                                        
+Ivarsson, Anastasija [K]
+Överhogdal 281 37  HÄSSLEHOLM                                        
+Johansson, Frode [M]
+Backsippestigen 595 93  MJÖLBY                                        
+Engström, Julia [K]
+Norrfjäll 382 00  NYBRO                                        
+Bergman, Noomi [K]
+Nytorpsvägen 561 27  HUSKVARNA                                        
+Lindström, Nicklas [M]
+Korsgatan 452 00  STRÖMSTAD                                        
+Eliasson, Patricia [K]
+Valldammsgatan 462 68  VÄNERSBORG                                        
+Olofsson, Tuva [K]
+Änggårda 96, 664 00  GRUMS                                        
+Sjöberg, Josefin [K]
+Libecksvägen 690 50  VRETSTORP                                        
+Magnusson, Georg [M]
+Handslagarevägen 450 33  GRUNDSUND                                        
+Åberg, Vera [K]
+Vakthem 980 28  RIKSGRÄNSEN                                        
+Sundberg, Hana [K]
+Anders Gränd 26, 922 00  VINDELN                                        
+Bergqvist, Egil [M]
+Änggårda 3, 620 16  LJUGARN                                        
+Eklund, Kristoffer [M]
+Verdandi 88, 670 40  ÅMOTFORS                                        
+Lindqvist, Elif [K]
+Främsteby 85, 665 02  FAGERÅS                                        
+Sjöberg, Tea [K]
+Bössgränd 691 47  KARLSKOGA                                        
+Johansson, Nils [M]
+Ovansjövägen 570 01  RÖRVIK                                        
+Hedlund, Anders [M]
+Vipgränden 590 80  SÖDRA VI                                        
+Dahlberg, Khalid [M]
+Backsippestigen 464 70  MELLERUD                                        
+Isaksson, Kasper [M]
+Bottna 17, 455 00  MUNKEDAL                                        
+Nordin, Smilla [K]
+Skolspåret 620 24  DALHEM                                        
+Bengtsson, Henny [K]
+Kläppinge 640 45  KVICKSUND                                        
+Svensson, Wilhelm [M]
+Änggårda 87, 620 16  LJUGARN                                        
+Blom, Caspian [M]
+Korsträsk 446 00  ÄLVÄNGEN                                        
+Lundqvist, Zeb [M]
+Sandlyckan 840 34  STORSJÖ KAPELL                                        
+Gustafsson, Manda [K]
+Grängsbo 43, 957 80  PELLO                                        
+Nilsson, Wictor [M]
+Föreningsgatan 860 35  SÖRÅKER                                        
+Nordström, Ayub [M]
+Nytorpsvägen 552 05  JÖNKÖPING                                        
+Nyberg, Georg [M]
+Idvägen 360 71  NORRHULT                                        
+Lindström, Petronella [K]
+Östantorp 92, 360 51  HOVMANTORP                                        
+Magnusson, Patrik [M]
+Trädgårdsgatan 820 60  DELSBO                                        
+Björk, Norea [K]
+Långlöt 380 74  LÖTTORP                                        
+Lundberg, Matthias [M]
+Alingsåsvägen 510 52  MÅLSRYD                                        
+Gustafsson, Charbel [M]
+Bursiljum 930 52  FÄLLFORS                                        
+Samuelsson, Mattis [M]
+Villagatan 440 90  HENÅN                                        
+Lundgren, Christophe [M]
+Idvägen 360 73  LENHOVDA                                        
+Bergström, Milly [K]
+Västra 41, 590 40  KISA                                        
+Björk, Shirin [K]
+Kantorsvägen 261 25  GLUMSLÖV                                        
+Martinsson, Zakarias [M]
+Södra 24, 545 56  ÄLGARÅS                                        
+Nordin, Marc [M]
+Överhogdal 438 00  LANDVETTER                                        
+Lundberg, Pascal [M]
+Hökgatan 823 67  SEGERSTA                                        
+Nyman, Frans [M]
+Mjölkalånga 813 00  HOFORS                                        
+Lundqvist, Adel [M]
+Enbackagården 272 34  SIMRISHAMN                                        
+Johansson, Micaela [K]
+Nybyvägen 330 12  FORSHEDA                                        
+Andreasson, Sumaya [K]
+Järnvägsgatan 840 22  ALBY                                        
+Olofsson, Adna [K]
+Hammarvägen 444 65  JÖRLANDA                                        
+Arvidsson, Blenda [K]
+Barrgatan 930 82  ABBORRTRÄSK                                        
+Norberg, Melina [K]
+Skällebo 333 03  SKEPPSHULT                                        
+Sandström, Estelle [K]
+Törneby 693 64  ÅTORP                                        
+Lind, Abel [M]
+Hagag 440 07  SJÖVIK                                        
+Håkansson, Miriam [K]
+Hammarvägen 920 70  SORSELE                                        
+Lindqvist, Dino [M]
+Villagatan 890 15  ULVÖHAMN                                        
+Gustafsson, Petronella [K]
+Simpnäs 760 31  EDSBRO                                        
+Pettersson, Lina [K]
+Åbyhöjden 590 95  LOFTAHAMMAR                                        
+Fredriksson, Muhammed [M]
+Torggatan 812 03  KUNGSGÅRDEN                                        
+Petersson, Ellinore [K]
+Klörupsvägen 913 00  HOLMSUND                                        
+Lindberg, Xander [M]
+Lemesjö 570 90  PÅSKALLAVIK                                        
+Bergqvist, Lia [K]
+Dadelvägen 280 60  BROBY                                        
+Åkesson, Kaspar [M]
+Torggatan 810 28  JÄRBO                                        
+Persson, Måns [M]
+Messlingen 840 80  LILLHÄRDAL                                        
+Hellström, Daniel [M]
+Enbackagården 270 52  BORRBY                                        
+Sandberg, Sara [K]
+Sandviken 710 27  DYLTABRUK                                        
+Sundström, Frode [M]
+Vakthem 980 10  VITTANGI                                        
+Forsberg, Natasha [K]
+Långlöt 387 44  BORGHOLM                                        
+Eliasson, Tiffany [K]
+Buanvägen 840 91  VEMHÅN                                        
+Henriksson, Ängla [K]
+Kantorsvägen 312 42  VEINGE                                        
+Dahlberg, Inez [K]
+Västra 22, 981 16  KIRUNA                                        
+Bergman, Zelda [K]
+Handslagarevägen 930 71  RENTJÄRN                                        
+Wallin, Jacqueline [K]
+Hålebäcksvägen 790 22  SÅGMYRA                                        
+Jansson, Stephanie [K]
+Nöjesgatan 534 30  STORA LEVENE                                        
+Björklund, Elinor [K]
+Vansövägen 285 32  MARKARYD                                        
+Söderberg, Rikard [M]
+Vikarna 457 42  TANUMSHEDE                                        
+Karlsson, Manne [M]
+Löberöd 521 37  KÄTTLISTORP                                        
+Wallin, Angelika [K]
+Grängsbo 81, 956 59  ÖVERKALIX                                        
+Sundström, Victoria [K]
+Östra 47, 740 33  VATTHOLMA                                        
+Sjögren, Valentin [M]
+Björkvägen 313 02  SENNAN                                        
+Åkesson, Amela [K]
+Kaptensgränd 962 03  MATTISUDDEN                                        
+Nyman, Whilma [K]
+Tulpanv 310 63  ÄLVSERED                                        
+Jonsson, Gabriela [K]
+Storgatan 340 32  GRIMSLÖV                                        
+Lundström, Mats [M]
+Eriksbo 73, 436 62  ASKIM                                        
+Berg, Karolin [K]
+Fuglie 196 36  KUNGSÄNGEN                                        
+Gustavsson, Alexia [K]
+Syrengården 420 14  SÄVE                                        
+Hermansson, Linda [K]
+Dadelvägen 822 00  ALFTA                                        
+Nilsson, Elmer [M]
+Hagag 440 06  GRÅBO                                        
+Fredriksson, Laila [K]
+Brunnevägen 830 43  ÅS                                        
+Björklund, Elna [K]
+Ängsv 342 56  ALVESTA                                        
+Jönsson, Anthony [M]
+Edeby 610 70  VAGNHÄRAD                                        
+Nyman, Henrietta [K]
+Ängsgatan 260 22  TÅGARP                                        
+Strömberg, Emilio [M]
+Skällebo 330 21  REFTELE                                        
+Fransson, Natalie [K]
+Ellenö 680 90  NYKROPPA                                        
+Holmberg, Felix [M]
+Mogata 88, 230 24  KLÅGERUP                                        
+Nyberg, Cajsa [K]
+Violvägen 840 40  SVENSTAVIK                                        
+Bergström, Noelia [K]
+Nöjesgatan 911 48  VÄNNÄSBY                                        
+Sandström, Marina [K]
+Syrengården 421 47  VÄSTRA FRÖLUNDA                                        
+Gunnarsson, Karim [M]
+Nytorpsvägen 563 00  GRÄNNA                                        
+Eklund, Leila [K]
+Ovansjövägen 576 00  SÄVSJÖ                                        
+Sjöberg, Jimmie [M]
+Simpnäs 760 15  GRÄDDÖ                                        
+Dahl, Petronella [K]
+Magasinsgatan 172 57  SUNDBYBERG                                        
+Johansson, Natalia [K]
+Östbygatan 434 16  KUNGSBACKA                                        
+Berggren, Erik [M]
+Orrspelsv 920 42  VINDELGRANSELE                                        
+Nyberg, Tintin [M]
+Knektv 770 14  NYHAMMAR                                        
+Bergqvist, Yasmin [K]
+Barkargatan 662 00  ÅMÅL                                        
+Jönsson, Anastasia [K]
+Lidbovägen 940 15  ROKNÄS                                        
+Carlsson, Paul [M]
+Tuvvägen 430 30  FRILLESÅS                                        
+Sundström, Carl [M]
+Gamla 94, 510 22  HYSSNA                                        
+Lindqvist, Matteo [M]
+Västerviksgatan 950 53  KARLSBORGSVERKEN                                        
+Lund, Angelika [K]
+Eggelstad 270 35  BLENTARP                                        
+Åberg, Sandra [K]
+Mållångsbo 284 00  PERSTORP                                        
+Bergqvist, Nathan [M]
+Främsteby 60, 665 02  FAGERÅS                                        
+Sundström, Kelvin [M]
+Klinta 570 32  HJÄLTEVAD                                        
+Hermansson, Natali [K]
+Kantorsvägen 312 56  VEINGE                                        
+Jonsson, Petra [K]
+Hagag 440 06  GRÅBO                                        
+Björklund, Gabrielle [K]
+Stackekärr 914 00  NORDMALING                                        
+Lindholm, Kaspar [M]
+Bygget 590 54  SUREFORS                                        
+Holmgren, Lisen [K]
+Nils Sträte 49, 126 15  HÄGERSTEN                                        
+Johansson, Aprilia [K]
+Lidbovägen 940 13  JÄVREBYN                                        
+Martinsson, Justin [M]
+Figgeberg 69, 155 00  NYKVARN                                        
+Håkansson, Nima [M]
+Fornäng 460 11  NYGÅRD                                        
+Sandström, Amilia [K]
+Främsteby 77, 244 56  DÖSJEBRO                                        
+Dahlberg, Vide [M]
+Höjdstigen 430 90  ÖCKERÖ                                        
+Sandberg, Paula [K]
+Esplanadgatan 740 41  MORGONGÅVA                                        
+Mattsson, Mirjam [K]
+Viarp 269 03  ÖSTRA KARUP                                        
+Hansson, Mohamed [M]
+Hagaskog 610 24  VIKBOLANDET                                        
+Andersson, Gloria [K]
+Läktargatan 770 70  LÅNGSHYTTAN                                        
+Lundqvist, Ola [M]
+Kantorsvägen 690 30  FINNERÖDJA                                        
+Åkesson, Elias [M]
+Nittsjö 85, 790 60  VIKARBYN                                        
+Lund, Elena [K]
+Barkargatan 940 45  VIDSEL                                        
+Sjöberg, Cecilia [K]
+Valldammsgatan 468 94  VARGÖN                                        
+Åström, Ines [K]
+Vikarna 522 52  TIDAHOLM                                        
+Hermansson, Hannes [M]
+Viarp 260 91  FÖRSLÖV                                        
+Sjögren, Charles [M]
+Edeby 646 00  GNESTA                                        
+Löfgren, Kristoffer [M]
+Näsåkersv 780 61  ÖJE                                        
+Martinsson, Ivan [M]
+Villagatan 440 82  KÄRINGÖN                                        
+Sundberg, Ilse [K]
+Klörupsvägen 523 39  TIMMELE                                        
+Wallin, Vanja [K]
+Gulleråsen 77, 661 00  SÄFFLE                                        
+Wallin, Marcel [M]
+Hagag 695 00  LAXÅ                                        
+Dahlberg, Abdullah [M]
+Järnvägsgatan 840 22  ALBY                                        
+Engström, Milla [K]
+Främsteby 72, 546 68  FORSVIK                                        
+Söderström, Johnny [M]
+Mållångsbo 980 63  KANGOSFORS                                        
+Jonsson, Beatrice [K]
+Hålebäcksvägen 790 20  GRYCKSBO                                        
+Sundberg, Jan [M]
+Lantmannagatan 570 76  RUDA                                        
+Lindgren, Dag [M]
+Orrspelsv 920 25  HORNMYR                                        
+Johansson, Lo [M]
+Enbackagården 270 57  KIVIK                                        
+Lindgren, Mika [K]
+Storgatan 340 32  GRIMSLÖV                                        
+Hermansson, Mohamad [M]
+Kvillevägen 440 67  ÅSTOL                                        
+Lundqvist, Nilas [M]
+Hagag 793 53  TÄLLBERG                                        
+Hellström, Wictor [M]
+Törneby 182 26  ENEBYBERG                                        
+Nyberg, Karim [M]
+Björkvägen 313 02  SENNAN                                        
+Söderström, Melody [K]
+Enbackagården 190 45  STOCKHOLM-ARLANDA                                        
+Jansson, Marco [M]
+Knektvägen 955 52  RÅNEÅ                                        
+Bergström, Joakim [M]
+Nöjesgatan 535 00  KVÄNUM                                        
+Lundgren, Liza [K]
+Håbyn 640 32  MALMKÖPING                                        
+Lindqvist, Vilmer [M]
+Syrengården 420 14  SÄVE                                        
+Dahlberg, Jon [M]
+Handslagarevägen 450 34  FISKEBÄCKSKIL                                        
+Holmberg, Siri [K]
+Östanlid 430 20  VEDDIGE                                        
+Lindberg, Kerstin [K]
+Grängsbo 71, 957 10  PELLO                                        
+Arvidsson, Artin [M]
+Utveda 892 00  DOMSJÖ                                        
+Eriksson, Ebba [K]
+Magasinsgatan 172 66  SUNDBYBERG                                        
+Lindgren, Roger [M]
+Tulpanv 240 35  HARLÖSA                                        
+Ström, Elis [M]
+Västra Häggetorp 79, 920 53  STENSELE                                        
+Eriksson, Nikki [K]
+Främsteby 65, 244 42  FURULUND                                        
+Petersson, Bastian [M]
+Västra 84, 980 26  BJÖRKLIDEN                                        
+Eliasson, Pelle [M]
+Korsgatan 647 00  MARIEFRED                                        
+Nilsson, Vilja [K]
+Messlingen 840 80  LILLHÄRDAL                                        
+Ek, Sara [K]
+Överhogdal 430 65  RÄVLANDA                                        
+Lindholm, Elif [K]
+Överhogdal 282 02  HÖRJA                                        
+Isaksson, Cornelia [K]
+Läktargatan 260 34  MÖRARP                                        
+Johansson, Micaela [K]
+Östbygatan 434 49  KUNGSBACKA                                        
+Åkesson, Helena [K]
+Vakthem 980 10  VITTANGI                                        
+Ek, Harry [M]
+Kläppinge 190 63  ÖRSUNDSBRO                                        
+Wallin, Henning [M]
+Löberöd 311 57  LÅNGÅS                                        
+Danielsson, Fred [M]
+Messlingen 840 85  LOFSDALEN                                        
+Lundgren, Lejla [K]
+Lillesäter 53, 980 43  NATTAVAARA                                        
+Åström, Vanna [K]
+Hammarvägen 450 46  HUNNEBOSTRAND                                        
+Lindholm, Altin [M]
+Åkerstigen 830 04  MÖRSIL                                        
+Dahlberg, Gustav [M]
+Gulleråsen 43, 730 75  MÖKLINTA                                        
+Bergström, Shayan [M]
+Norrfjäll 760 21  VÄTÖ                                        
+Arvidsson, Mohamad [M]
+Åkerstigen 830 19  STORLIEN                                        
+Lund, Emelia [K]
+Enbackagården 195 29  ROSERSBERG                                        
+Sjöberg, Zandra [K]
+Magasinsgatan 865 52  ALNÖ                                        
+Sandström, Bianca [K]
+Kantorsvägen 312 05  SKOTTORP                                        
+Hansson, Nadja [K]
+Korsgatan 452 00  STRÖMSTAD                                        
+Sandberg, Emin [M]
+Mållångsbo 980 63  KANGOSFORS                                        
+Samuelsson, Rami [M]
+Stackekärr 820 78  HASSELA                                        
+Persson, Darin [M]
+Sandlyckan 840 32  KLÖVSJÖ                                        
+Samuelsson, Marika [K]
+Gärdslösa 840 58  PILGRIMSTAD                                        
+Larsson, Belinda [K]
+Kaptensgränd 960 33  MURJEK                                        
+Nyberg, George [M]
+Alsteråvägen 380 65  DEGERHAMN                                        
+Nilsson, Naomi [K]
+Lantmannagatan 260 42  MÖLLE                                        
+Persson, Dag [M]
+Hundbergsvägen 830 02  MATTMAR                                        
+Ström, Cevin [M]
+Dyvik 890 14  KÖPMANHOLMEN                                        
+Samuelsson, Johanna [K]
+Bottna 43, 450 53  HÄLLEVADSHOLM                                        
+Axelsson, Denise [K]
+Korsträsk 440 45  NÖDINGE                                        
+Sjöberg, Sean [M]
+Karlsängen 430 92  FOTÖ                                        
+Larsson, Nina [K]
+Ellenö 458 78  ÖDESBORG                                        
+Sandström, Kasper [M]
+Alsteråvägen 380 65  DEGERHAMN                                        
+Ivarsson, Malte [M]
+Västra 16, 980 24  ABISKO                                        
+Eklund, Laila [K]
+Eriksbo 69, 430 82  DONSÖ                                        
+Karlsson, Camilla [K]
+Verdandi 23, 910 70  DOROTEA                                        
+Ivarsson, Viola [K]
+Edeforsvägen 509 80  BORÅS                                        
+Arvidsson, Rickard [M]
+Stallstigen 830 21  TANDSBYN                                        
+Wallin, Villemo [K]
+Hålebäcksvägen 790 20  GRYCKSBO                                        
+Nyberg, Sandy [K]
+Törneby 295 71  BROMÖLLA                                        
+Jakobsson, Milton [M]
+Hagagatan 530 32  SÅTENÄS                                        
+Lindgren, Claudia [K]
+Södra 61, 273 25  SMEDSTORP                                        
+Jansson, Åsa [K]
+Överhogdal 435 38  MÖLNLYCKE                                        
+Mårtensson, Denise [K]
+Mjövattnet 873 85  BOLLSTABRUK                                        
+Sjöberg, Ängla [K]
+Västerviksgatan 562 03  MÅNSARP                                        
+Larsson, Pär [M]
+Bottna 39, 450 54  HEDEKAS                                        
+Bengtsson, Fabian [M]
+Messlingen 950 84  KARUNGI                                        
+Holm, Karl [M]
+Vakthem 980 28  RIKSGRÄNSEN                                        
+Hansson, Kasper [M]
+Violvägen 840 40  SVENSTAVIK                                        
+Lindberg, Aisha [K]
+Liljerum 9, 880 10  UNDROM                                        
+Martinsson, André [M]
+Norrfjäll 935 70  NORSJÖ                                        
+Forsberg, Ayub [M]
+Gamla 8, 510 22  HYSSNA                                        
+Fransson, Vilmer [M]
+Långgatan 680 50  EKSHÄRAD                                        
+Mårtensson, Evelyn [K]
+Hammarvägen 245 00  STAFFANSTORP                                        
+Nyman, Izabelle [K]
+Kvillevägen 440 65  KLÄDESHOLMEN                                        
+Åström, Michel [M]
+Orrspelsv 920 42  VINDELGRANSELE                                        
+Karlsson, Agnes [K]
+Läktargatan 260 39  HASSLARP                                        
+Hermansson, Petra [K]
+Handslagarevägen 930 71  RENTJÄRN                                        
+Karlsson, Denniz [M]
+Nittsjö 62, 795 01  RÄTTVIK                                        
+Sundberg, Dan [M]
+Stallstigen 740 50  ALUNDA                                        
+Berglund, Noel [M]
+Lidbovägen 940 10  HORTLAX                                        
+Bergqvist, Erna [K]
+Violvägen 260 50  BILLESHOLM                                        
+Eliasson, Vilmer [M]
+Mjövattnet 870 31  MJÄLLOM                                        
+Jonasson, Danny [M]
+Bonaröd 230 23  ANDERSLÖV                                        
+Andersson, Kevin [M]
+Kaptensgränd 962 00  KVIKKJOKK                                        
+Dahlberg, Haris [M]
+Nittsjö 23, 910 44  ÅNÄSET                                        
+Lindholm, Sami [M]
+Skolspåret 533 56  KÄLLBY                                        
+Johnsson, James [M]
+Idvägen 560 13  HOK                                        
+Sjöberg, Kalle [M]
+Lantmannagatan 260 41  NYHAMNSLÄGE                                        
+Johnsson, Kim [M]
+Hålebäcksvägen 790 15  SUNDBORN                                        
+Forsberg, Jolin [K]
+Tuvvägen 692 11  KUMLA                                        
+Mårtensson, Tuva [K]
+Vikarna 740 60  ÖRBYHUS                                        
+Eriksson, Mehdi [M]
+Långlöt 781 23  BORLÄNGE                                        
+Mattsson, Bea [K]
+Norra 72, 384 11  ÅLEM                                        
+Lundgren, Jordan [M]
+Stallstigen 830 30  LIT                                        
+Lindström, Joacim [M]
+Vansövägen 511 60  TORESTORP                                        
+Martinsson, Klas [M]
+Norra 46, 792 03  FÄRNÄS                                        
+Pettersson, Caisa [K]
+Tjörneröd 680 40  ÖSTMARK                                        
+Nordström, Axel [M]
+Eggelstad 270 33  VOLLSJÖ                                        
+Norberg, Karl [M]
+Morvall 64, 820 51  HAMRA                                        
+Lundström, Noah [M]
+Främsteby 29, 640 24  SKÖLDINGE                                        
+Söderström, Karolin [K]
+Änggårda 26, 664 02  SLOTTSBRON                                        
+Söderström, Gabriel [M]
+Sjötullsgatan 696 03  ÅMMEBERG                                        
+Mattsson, Zacharias [M]
+Gjutaregatan 840 10  LJUNGAVERK                                        
+Danielsson, Magda [K]
+Tjörneröd 573 97  TRANÅS                                        
+Dahl, Aylin [K]
+Buanvägen 840 98  TÄNNDALEN                                        
+Olofsson, Sara [K]
+Anders Gränd 95, 640 10  HÖGSJÖ                                        
+Johnsson, Natasha [K]
+Hantverkarg 130 38  RUNMARÖ                                        
+Holmgren, Moa [K]
+Magasinsgatan 860 40  INDAL                                        
+Löfgren, Troy [M]
+Alsteråvägen 590 34  TJÄLLMO                                        
+Nyberg, Sol [K]
+Hantverkarg 130 35  INGARÖ                                        
+Lindström, Yasmine [K]
+Backsippestigen 431 44  MÖLNDAL                                        
+Forsberg, Harun [M]
+Villagatan 890 54  TREHÖRNINGSJÖ                                        
+Lundgren, Wendela [K]
+Valldammsgatan 186 23  VALLENTUNA                                        
+Lindström, Therese [K]
+Eriksbo 66, 430 82  DONSÖ                                        
+Söderström, Joachim [M]
+Mogata 52, 260 20  TECKOMATORP                                        
+Ekström, Mohammed [M]
+Karlsängen 148 00  ÖSMO                                        
+Mattsson, Darin [M]
+Ånhult 950 45  PÅLÄNG                                        
+Axelsson, Manda [K]
+Messlingen 840 93  HEDE                                        
+Dahl, Ragnar [M]
+Pite 4, 840 73  BISPGÅRDEN                                        
+Arvidsson, Flora [K]
+Bursiljum 930 10  LÖVÅNGER                                        
+Wallin, Leandro [M]
+Törneby 182 18  STOCKSUND                                        
+Sandberg, Zackarias [M]
+Mjölkalånga 252 51  RÅÅ                                        
+Holmgren, Yasin [M]
+Skärpinge 862 00  KVISSLEBY                                        
+Isaksson, Måns [M]
+Villagatan 440 90  HENÅN                                        
+Nyberg, Doris [K]
+Djursbo 577 88  SIVERDALEN                                        
+Karlsson, Zara [K]
+Bottna 12, 684 00  MUNKFORS                                        
+Persson, Elvin [M]
+Nytorpsvägen 560 25  BOTTNARYD                                        
+Åberg, Cindy [K]
+Gökst 671 66  ARVIKA                                        
+Lindqvist, Karl [M]
+Gulleråsen 38, 372 80  KALLINGE                                        
+Söderberg, Carmen [K]
+Enbackagården 270 58  SANKT OLOF                                        
+Bengtsson, Elias [M]
+Villagatan 440 80  ELLÖS                                        
+Olsson, Dominic [M]
+Lillesäter 3, 810 40  HEDESUNDA                                        
+Jakobsson, Karolina [K]
+Magasinsgatan 865 90  ANKARSVIK                                        
+Samuelsson, Baran [M]
+Västra 96, 590 42  HORN                                        
+Johansson, Vilmer [M]
+Brunnevägen 290 10  TOLLARP                                        
+Lind, Aston [M]
+Loftaheden 670 41  KOPPOM                                        
+Henriksson, Gottfrid [M]
+Lantmannagatan 570 72  FAGERHULT                                        
+Holmgren, Maximiliam [M]
+Björkvägen 310 34  KVIBILLE                                        
+Hedlund, Flora [K]
+Lillesäter 667 00  FORSHAGA                                        
+Blom, Emmie [K]
+Bodbysund 540 18  TIDAN                                        
+Lundqvist, Albert [M]
+Hantverkarg 130 33  GÄLLNÖBY                                        
+Lindgren, Melody [K]
+Håbyn 610 12  HÄLLESTAD                                        
+Andreasson, Seth [M]
+Mållångsbo 980 65  KAINULASJÄRVI                                        
+Nordström, Hanna [K]
+Törneby 693 32  ÅTORP                                        
+Wallin, Mia [K]
+Figgeberg 46, 150 16  HÖLÖ                                        
+Ström, Devin [M]
+Gökst 671 17  EDANE                                        
+Fredriksson, Stella [K]
+Kaptensgränd 310 71  RYDÖBRUK                                        
+Lindberg, Gina [K]
+Ånhult 380 24  PÅRYD                                        
+Strömberg, Christina [K]
+Bygget 590 54  SUREFORS                                        
+Sjögren, Lo [K]
+Koppramåla 370 30  RÖDEBY                                        
+Gustavsson, Sabina [K]
+Luddingsbo 63, 100 05  HUSARÖ                                        
+Bengtsson, Lizette [K]
+Dyvik 890 41  SKORPED                                        
+Håkansson, Joar [M]
+Nöjesgatan 780 51  DALA-JÄRNA                                        
+Andersson, Isra [K]
+Norra 43, 380 52  TIMMERNABBEN                                        
+Bergqvist, Albin [M]
+Pite 12, 840 76  STUGUN                                        
+Sjögren, Chanel [K]
+Kläppinge 241 95  BILLINGE                                        
+Lundberg, Jonas [M]
+Simpnäs 760 45  GRISSLEHAMN                                        
+Abrahamsson, Michael [M]
+Eriksbo 68, 422 55  HISINGS BACKA                                        
+Lundström, Lars [M]
+Alsteråvägen 380 62  MÖRBYLÅNGA                                        
+Bengtsson, Folke [M]
+Orrspelsv 920 20  ÖRTRÄSK                                        
+Berggren, Timmy [M]
+Loftaheden 178 52  EKERÖ                                        
+Fransson, Emmie [K]
+Loftaheden 575 89  EKSJÖ                                        
+Pettersson, Vilmer [M]
+Tjörneröd 685 00  TORSBY                                        
+Lindström, Linn [K]
+Skärpinge 686 06  GRÄSMARK                                        
+Ström, Ulrika [K]
+Violvägen 260 50  BILLESHOLM                                        
+Olofsson, Pia [K]
+Långgatan 680 50  EKSHÄRAD                                        
+Öberg, Hanna [K]
+Korsgatan 452 05  SYDKOSTER                                        
+Petersson, Paula [K]
+Törneby 295 88  BROMÖLLA                                        
+Bergström, Tara [K]
+Fuglie 740 30  BJÖRKLINGE                                        
+Bergqvist, Isabell [K]
+Gulleråsen 58, 370 12  HALLABRO                                        
+Lundqvist, Matteo [M]
+Lidbovägen 943 00  ÖJEBYN                                        
+Eliasson, Minna [K]
+Storgatan 340 32  GRIMSLÖV                                        
+Nyström, Rojin [K]
+Vipgränden 910 90  STORSELEBY                                        
+Nyberg, Abdullahi [M]
+Stackekärr 914 00  NORDMALING                                        
+Nyman, Agust [M]
+Buanvägen 870 10  ÄLANDSBRO                                        
+Björklund, Ellinore [K]
+Norrfjäll 930 61  BASTURTRÄSK                                        
+Sundberg, Esther [K]
+Eriksbo 28, 402 17  GÖTEBORG                                        
+Hedlund, Zeke [M]
+Föreningsgatan 860 32  FAGERVIK                                        
+Sandberg, Jennie [K]
+Enbackagården 270 58  SANKT OLOF                                        
+Nordin, Aron [M]
+Korsgatan 640 61  STALLARHOLMEN                                        
+Berg, Noah [M]
+Koppramåla 370 30  RÖDEBY                                        
+Hellström, Roger [M]
+Östanlid 430 20  VEDDIGE                                        
+Lindgren, Samuel [M]
+Ovansjövägen 570 01  RÖRVIK                                        
+Bengtsson, Julia [K]
+Bonaröd 510 90  LIMMARED                                        
+Nordin, Liv [K]
+Västra Häggetorp 85, 920 52  BARSELE                                        
+Bergström, Maria [K]
+Stackekärr 914 02  LÖGDEÅ                                        
+Lindqvist, Vida [K]
+Korsträsk 445 62  BOHUS                                        
+Sjöberg, Zacharias [M]
+Bodbysund 730 91  RIDDARHYTTAN                                        
+Andersson, Pia [K]
+Lidbovägen 940 17  LILLPITE                                        
+Dahl, Teodor [M]
+Messlingen 840 80  LILLHÄRDAL                                        
+Lindqvist, Carl [M]
+Backsippestigen 430 50  KÅLLERED                                        
+Sjöberg, Izabella [K]
+Backsippestigen 596 00  SKÄNNINGE                                        
+Andreasson, Oliver [M]
+Pite 9, 940 27  SJULSMARK                                        
+Nordström, Andy [M]
+Messlingen 950 80  SESKARÖ                                        
+Lundström, Aleksandar [M]
+Lillesäter 57, 810 40  HEDESUNDA                                        
+Hellström, Maximillia [M]
+Granträsk 260 83  VEJBYSTRAND                                        
+Blom, Isabella [K]
+Långlöt 380 75  BYXELKROK                                        
+Andersson, Valdemar [M]
+Lantmannagatan 570 75  FÅGELFORS                                        
+Löfgren, Darin [M]
+Järnvägsgatan 662 02  FENGERSFORS                                        
+Holm, Roni [M]
+Mogata 78, 260 20  TECKOMATORP                                        
+Ek, Tova [K]
+Tulpanv 240 36  STEHAG                                        
+Söderberg, Elias [M]
+Hammarvägen 444 35  JÖRLANDA                                        
+Dahl, Alva [K]
+Mjövattnet 870 24  SKOG                                        
+Bergström, Sabrina [K]
+Sandlyckan 840 44  OVIXEN                                        
+Ivarsson, Adelina [K]
+Ängsgatan 686 03  VÄSTRA ÄMTERVIK                                        
+Axelsson, Johanna [K]
+Östantorp 59, 360 42  BRAÅS                                        
+Löfgren, Philippa [K]
+Norrfjäll 763 03  SKEBOBRUK                                        
+Olofsson, Linda [K]
+Loftaheden 178 75  EKERÖ                                        
+Sjögren, Filip [M]
+Läktargatan 776 01  HEDEMORA                                        
+Olsson, Karl [M]
+Koppramåla 370 43  STURKÖ                                        
+Mattsson, Knut [M]
+Verdandi 39, 670 40  ÅMOTFORS                                        
+Larsson, Iza [K]
+Norra 43, 792 04  NUSNÄS                                        
+Öberg, Johannes [M]
+Hammarvägen 456 00  KUNGSHAMN                                        
+Holm, Melinda [K]
+Läktargatan 260 36  ÖDÅKRA-VÅLA                                        
+Fransson, Malou [K]
+Messlingen 952 17  LAPPTRÄSK                                        
+Åberg, Dana [K]
+Klörupsvägen 523 30  TVÄRRED                                        
+Danielsson, Dag [M]
+Bodbysund 541 87  SKÖVDE                                        
+Persson, Ellinore [K]
+Grängsbo 41, 980 62  JUNOSUANDO                                        
+Gunnarsson, Freddy [M]
+Messlingen 952 86  LAPPTRÄSK                                        
+Lindström, Villemo [K]
+Backsippestigen 437 39  LINDOME                                        
+Åström, Aron [M]
+Alsteråvägen 590 34  TJÄLLMO                                        
+Karlsson, Sixten [M]
+Syrengården 442 87  KUNGÄLV                                        
+Johnsson, Lena [K]
+Stallstigen 740 50  ALUNDA                                        
+Forsberg, Tintin [K]
+Hagagatan 531 48  VINNINGA                                        
+Andersson, Edith [K]
+Västra Häggetorp 2, 920 61  SLUSSFORS                                        
+Lund, Elina [K]
+Knektvägen 955 93  RÅNEÅ                                        
+Karlsson, Nour [K]
+Norrfjäll 930 61  BASTURTRÄSK                                        
+Gustavsson, Otto [M]
+Mjölkalånga 252 29  RÅÅ                                        
+Ström, Eldin [M]
+Eriksbo 16, 427 83  BILLDAL                                        
+Dahlberg, Gustaf [M]
+Föreningsgatan 861 00  TIMRÅ                                        
+Sundström, Jakob [M]
+Skolspåret 533 96  KÄLLBY                                        
+Magnusson, Aprilia [K]
+Bonaröd 514 00  TRANEMO                                        
+Eklund, Arman [M]
+Hålebäcksvägen 790 20  GRYCKSBO                                        
+Månsson, Maja [K]
+Skällebo 330 27  HESTRA                                        
+Dahl, Stefan [M]
+Håbyn 640 32  MALMKÖPING                                        
+Persson, Frank [M]
+Esplanadgatan 282 00  TYRINGE                                        
+Björk, Amy [K]
+Höjdstigen 430 96  HYPPELN                                        
+Mattsson, Ellie [K]
+Käbbatorp 93, 820 23  BERGVIK                                        
+Åström, Yasmine [K]
+Överhogdal 280 20  BJÄRNUM                                        
+Strömberg, Rania [K]
+Lillesäter 980 41  HAKKAS                                        
+Lundgren, Gustav [M]
+Dyvik 890 27  ÖVERHÖRNÄS                                        
+Danielsson, Elly [K]
+Tuvvägen 440 33  HARESTAD                                        
+Arvidsson, Viggo [M]
+Knektv 770 10  FREDRIKSBERG                                        
+Löfgren, Aurora [K]
+Bottna 60, 131 94  NACKA                                        
+Lundin, Lava [K]
+Hålebäcksvägen 521 63  KINNARP                                        
+Fredriksson, Flora [K]
+Östantorp 59, 360 30  LAMMHULT                                        
+Sundberg, Sanja [K]
+Kaptensgränd 175 48  JÄRFÄLLA                                        
+Pettersson, Erica [K]
+Kvillevägen 360 10  RYD                                        
+Arvidsson, Dante [M]
+Västerviksgatan 562 02  TABERG                                        
+Ivarsson, Nelly [K]
+Kläppinge 640 40  STORA SUNDBY                                        
+Sandberg, Morgan [M]
+Norrfjäll 380 44  ALSTERBRO                                        
+Ivarsson, Nils [M]
+Törneby 295 41  BROMÖLLA                                        
+Björklund, Xander [M]
+Orrspelsv 920 40  KIRSTINEBERG                                        
+Andreasson, Patric [M]
+Tuvvägen 692 25  KUMLA                                        
+Engström, Tove [K]
+Ängsv 796 00  ÄLVDALEN                                        
+Sandström, Zack [M]
+Liljerum 94, 294 00  SÖLVESBORG                                        
+Mårtensson, Ebbe [M]
+Hammarvägen 450 46  HUNNEBOSTRAND                                        
+Holmberg, Kristin [K]
+Viarp 668 02  BÄCKEFORS                                        
+Göransson, Tomas [M]
+Västerviksgatan 562 03  MÅNSARP                                        
+Jönsson, Milly [K]
+Kvillevägen 360 13  URSHULT                                        
+Åström, Maya [K]
+Östbygatan 434 73  KUNGSBACKA                                        
+Svensson, Filippa [K]
+Anders Gränd 79, 270 21  GLEMMINGEBRO                                        
+Carlsson, Gustav [M]
+Djursbo 314 00  HYLTEBRUK                                        
+Ek, Jonas [M]
+Villagatan 794 01  ORSA                                        
+Sundberg, Isabelle [K]
+Pite 8, 840 73  BISPGÅRDEN                                        
+Arvidsson, Ester [K]
+Näsåkersv 782 25  MALUNG                                        
+Jonsson, Harun [M]
+Bodbysund 730 91  RIDDARHYTTAN                                        
+Lundin, Texas [M]
+Klövervägen 774 95  AVESTA                                        
+Lundgren, Tim [M]
+Långlöt 147 36  GRÖDINGE                                        
+Danielsson, Seth [M]
+Skärpinge 860 13  STÖDE                                        
+Holm, Lizette [K]
+Gamla 84, 511 87  ÄLEKULLA                                        
+Eliasson, Terese [K]
+Utveda 890 35  HUSUM                                        
+Hansson, Totte [M]
+Vansövägen 287 47  STRÖMNÄSBRUK                                        
+Sundberg, Svante [M]
+Hantverkarg 130 34  SKÄLVIK                                        
+Sundberg, Sam [M]
+Änggårda 62, 664 02  SLOTTSBRON                                        
+Carlsson, Charlotta [K]
+Fuglie 197 00  BRO                                        
+Lundgren, Melwin [M]
+Klörupsvägen 913 00  HOLMSUND                                        
+Åström, Whilma [K]
+Gjutaregatan 840 13  TORPSHAMMAR                                        
+Arvidsson, Aleksandra [K]
+Alingsåsvägen 510 40  SANDARED                                        
+Martinsson, Nadja [K]
+Stallstigen 832 00  FRÖSÖN                                        
+Öberg, Angelika [K]
+Edeforsvägen 510 54  BRÄMHULT                                        
+Gunnarsson, Isac [M]
+Storgatan 663 02  HAMMARÖ                                        
+Gustafsson, Albin [M]
+Kvillevägen 362 00  TINGSRYD                                        
+Andersson, Jasper [M]
+Buanvägen 840 91  VEMHÅN                                        
+Lindgren, Maximiliam [M]
+Mellangården 826 08  TRÖNÖDAL                                        
+Lindström, Elisabet [K]
+Bottna 39, 455 00  MUNKEDAL                                        
+Björklund, Penny [K]
+Nybyvägen 330 17  RYDAHOLM                                        
+Lind, Matteo [M]
+Liljerum 39, 880 10  UNDROM                                        
+Sundberg, Dino [M]
+Magasinsgatan 865 73  ANKARSVIK                                        
+Lind, Mostafa [M]
+Grängsbo 5, 957 42  ÖVERTORNEÅ                                        
+Samuelsson, Viktoria [K]
+Figgeberg 41, 880 37  JUNSELE                                        
+Öberg, Felix [M]
+Östra 26, 740 11  LÄNNAHOLM                                        
+Ivarsson, Wilmer [M]
+Norrfjäll 640 50  BJÖRNLUNDA                                        
+Sjögren, Einar [M]
+Loftaheden 178 33  EKERÖ                                        
+Jansson, Roger [M]
+Änggårda 47, 664 00  GRUMS                                        
+Eliasson, Desirée [K]
+Östbygatan 430 40  SÄRÖ                                        
+Nordström, Nea [K]
+Näsåkersv 780 69  SÖRSJÖN                                        
+Lind, Emina [K]
+Enbackagården 270 57  KIVIK                                        
+Ivarsson, Alec [M]
+Handslagarevägen 230 44  BUNKEFLOSTRAND                                        
+Lindqvist, Felix [M]
+Mållångsbo 433 96  PARTILLE                                        
+Andersson, Gina [K]
+Syrengården 420 17  OLOFSTORP                                        
+Sjögren, Manne [M]
+Mellangården 826 00  SÖDERHAMN                                        
+Olofsson, Zeke [M]
+Kaptensgränd 310 83  UNNARYD                                        
+Sjögren, Zoe [K]
+Hålebäcksvägen 521 32  KINNARP                                        
+Dahl, Karl [M]
+Änggårda 8, 620 23  ROMAKLOSTER                                        
+Berglund, Zeinab [K]
+Gamla 68, 511 10  BERGHEM                                        
+Nordström, Sarah [K]
+Storgatan 130 56  UTÖ                                        
+Pettersson, Baran [M]
+Grängsbo 39, 950 90  HEDNÄSET                                        
+Henriksson, Baran [M]
+Anders Gränd 40, 270 22  KÖPINGEBRO                                        
+Wallin, Albert [M]
+Sandviken 716 72  FJUGESTA                                        
+Lund, Theo [M]
+Bottna 66, 571 75  NÄSSJÖ                                        
+Abrahamsson, Dag [M]
+Morvall 7, 820 42  KORSKROGEN                                        
+Sjögren, Nemi [K]
+Dadelvägen 742 11  ÖSTHAMMAR                                        
+Henriksson, Håkan [M]
+Nytorpsvägen 561 57  HUSKVARNA                                        
+Gustafsson, Silvia [K]
+Alsteråvägen 590 30  BORENSBERG                                        
+Samuelsson, Zeb [M]
+Östanlid 432 38  TRÄSLÖVSLÄGE                                        
+Månsson, Kimi [M]
+Mjölkalånga 813 00  HOFORS                                        
+Forsberg, Yrsa [K]
+Kantorsvägen 310 10  VÅXTORP                                        
+Björk, Alwa [K]
+Kantorsvägen 310 10  VÅXTORP                                        
+Fredriksson, Cecilia [K]
+Violvägen 840 43  HACKÅS                                        
+Berggren, Mark [M]
+Orrspelsv 920 42  VINDELGRANSELE                                        
+Öberg, Ulrika [K]
+Karlsängen 430 92  FOTÖ                                        
+Jansson, Filippa [K]
+Nittsjö 55, 370 17  ERINGSBODA                                        
+Persson, Jonas [M]
+Söråsele 910 50  FREDRIKA                                        
+Norberg, Zebastian [M]
+Östanlid 430 20  VEDDIGE                                        
+Lundberg, Mateo [M]
+Hammarvägen 450 46  HUNNEBOSTRAND                                        
+Mattsson, Anja [K]
+Näsåkersv 780 67  SÄLEN                                        
+Jonsson, Marielle [K]
+Viarp 260 91  FÖRSLÖV                                        
+Gunnarsson, Walid [M]
+Esplanadgatan 740 41  MORGONGÅVA                                        
+Andersson, Rojin [K]
+Löberöd 311 77  HEBERG                                        
+Nyberg, Gordon [M]
+Trädgårdsgatan 242 22  HÖRBY                                        
+Göransson, Jessie [K]
+Syrengården 425 87  HISINGS KÄRRA                                        
+Karlsson, Nor [K]
+Nästvattnet 291 11  KRISTIANSTAD                                        
+Persson, Cindy [K]
+Hagag 695 00  LAXÅ                                        
+Henriksson, Tina [K]
+Ellenö 612 91  FINSPÅNG                                        
+Bergman, Sixten [M]
+Fornäng 710 41  FELLINGSBRO                                        
+Pettersson, Andi [M]
+Nybyvägen 330 17  RYDAHOLM                                        
+Johansson, Zakarias [M]
+Skärpinge 860 13  STÖDE                                        
+Lund, Arvid [M]
+Trädgårdsgatan 142 89  TRÅNGSUND                                        
+Löfgren, Viking [M]
+Gamla 22, 510 13  BJÖRKETORP                                        
+Holmberg, Pascal [M]
+Löberöd 310 60  ULLARED                                        
+Lindström, Johan [M]
+Hagag 790 30  INSJÖN                                        
+Sandström, Adis [M]
+Storgatan 810 70  ÄLVKARLEBY                                        
+Svensson, Marielle [K]
+Simpnäs 760 42  BJÖRKÖ                                        
+Lind, Sumaya [K]
+Knektv 770 14  NYHAMMAR                                        
+Jonasson, Mattias [M]
+Bygget 340 16  RYSSBY                                        
+Nyberg, Heidi [K]
+Norrfjäll 380 40  ORREFORS                                        
+Lundberg, Samantha [K]
+Anders Gränd 73, 270 22  KÖPINGEBRO                                        
+Blomqvist, Nike [K]
+Östantorp 25, 360 44  INGELSTAD                                        
+Strömberg, Emmelie [K]
+Klövervägen 260 61  HYLLINGE                                        
+Danielsson, Hilma [K]
+Kantorsvägen 312 05  SKOTTORP                                        
+Lindqvist, Nicklas [M]
+Lillesäter 22, 814 21  FURUVIK                                        
+Blomqvist, Jason [M]
+Nils Sträte 78, 122 39  ENSKEDE                                        
+Bergström, Fia [K]
+Nils Sträte 40, 125 75  ÄLVSJÖ                                        
+Nordström, Kaspar [M]
+Stallstigen 184 48  ÖSTERSKÄR                                        
+Sundberg, Wilgot [M]
+Lidbovägen 941 68  PITEÅ                                        
+Bergman, Emily [K]
+Östra 61, 740 33  VATTHOLMA                                        
+Hermansson, Oliwer [M]
+Mållångsbo 284 00  PERSTORP                                        
+Olofsson, Daniel [M]
+Storgatan 130 61  HÅRSFJÄRDEN                                        
+Bergqvist, Jenna [K]
+Åbyhöjden 590 91  HJORTED                                        
+Wallin, Desirée [K]
+Idvägen 360 75  ALSTERMO                                        
+Eriksson, Evelin [K]
+Knektv 772 00  GRÄNGESBERG                                        
+Ström, Zeb [M]
+Nybyvägen 725 99  VÄSTERÅS                                        
+Berglund, Ahmad [M]
+Vansövägen 511 17  ÖRBY                                        
+Petersson, Hassan [M]
+Torvvägen 910 89  KLIMPFJÄLL                                        
+Carlsson, Helen [K]
+Lillesäter 980 41  HAKKAS                                        
+Lindberg, Petronella [K]
+Kaptensgränd 314 02  LÅNGARYD                                        
+Eriksson, Antonia [K]
+Mållångsbo 433 81  PARTILLE                                        
+Åström, Tova [K]
+Hagagatan 530 30  TUN                                        
+Bergström, Angelica [K]
+Bottna 64, 570 23  ANNEBERG                                        
+Berg, Whilma [K]
+Nils Sträte 44, 161 85  BROMMA                                        
+Åström, Lena [K]
+Norra 45, 384 53  ÅLEM                                        
+Holmberg, Noor [K]
+Löberöd 310 50  SLÖINGE                                        
+Nyström, Edit [K]
+Torvvägen 574 70  VETLANDA                                        
+Ekström, Caspian [M]
+Sandviken 290 62  VISHULT                                        
+Jansson, Vega [K]
+Valldammsgatan 462 87  VÄNERSBORG                                        
+Olofsson, Jennie [K]
+Långgatan 540 70  HOVA                                        
+Eriksson, Seth [M]
+Torggatan 810 22  ÅRSUNDA                                        
+Dahlberg, Younes [M]
+Gjutaregatan 840 10  LJUNGAVERK                                        
+Holmgren, Joakim [M]
+Backsippestigen 464 70  ÅSENSBRUK                                        
+Gustafsson, Joel [M]
+Alsteråvägen 591 65  MOTALA                                        
+Hellström, Håkan [M]
+Knektv 230 53  ALNARP                                        
+Holmgren, Niki [K]
+Nittsjö 95, 370 11  BACKARYD                                        
+Larsson, Matilda [K]
+Sandlyckan 840 30  RÄTAN                                        
+Blom, Henrietta [K]
+Magasinsgatan 833 00  STRÖMSUND                                        
+Andersson, Nadia [K]
+Lillesäter 76, 810 40  HEDESUNDA                                        
+Wallin, Tuva [K]
+Fuglie 740 22  BÄLINGE                                        
+Gustavsson, Estrid [K]
+Nytorpsvägen 556 37  JÖNKÖPING                                        
+Håkansson, Lizette [K]
+Djursbo 570 81  JÄRNFORSEN                                        
+Larsson, Cornelia [K]
+Grängsbo 16, 820 01  VOXNABRUK                                        
+Gustafsson, Adnan [M]
+Västra Häggetorp 40, 920 66  HEMAVAN                                        
+Bengtsson, Arman [M]
+Gjutaregatan 840 24  ÖVERTURINGEN                                        
+Göransson, Jason [M]
+Klörupsvägen 913 00  HOLMSUND                                        
+Blomqvist, Kim [K]
+Knektv 770 12  SUNNANSJÖ                                        
+Magnusson, Markus [M]
+Västra Häggetorp 18, 162 75  VÄLLINGBY                                        
+Henriksson, Leonardo [M]
+Bursiljum 930 27  KALVTRÄSK                                        
+Mårtensson, Elif [K]
+Violvägen 660 10  DALS LÅNGED                                        
+Lind, Berfin [K]
+Långgatan 680 50  EKSHÄRAD                                        
+Håkansson, Ajla [K]
+Idvägen 360 77  FRÖSEKE                                        
+Gustafsson, Matteus [M]
+Orrspelsv 920 30  BLÅVIKSJÖN                                        
+Ström, Juni [K]
+Norrfjäll 763 03  SKEBOBRUK                                        
+Håkansson, Holger [M]
+Nöjesgatan 911 84  VÄNNÄSBY                                        
+Hansson, Mira [K]
+Djursbo 310 82  LANDERYD                                        
+Ekström, Vilgot [M]
+Lantmannagatan 579 02  BERGA                                        
+Eklund, Elizabeth [K]
+Sörbylund 520 50  BLIDSBERG                                        
+Blomqvist, Gina [K]
+Vansövägen 285 76  MARKARYD                                        
+Sandström, Simon [M]
+Knektvägen 955 71  RÅNEÅ                                        
+Mårtensson, Charles [M]
+Änggårda 8, 620 16  LJUGARN                                        
+Nordin, Maximilian [M]
+Syrengården 425 60  HISINGS KÄRRA                                        
+Lund, Moa [K]
+Skällebo 330 21  REFTELE                                        
+Jonasson, Stephanie [K]
+Håbyn 610 12  HÄLLESTAD                                        
+Pettersson, Yusuf [M]
+Backsippestigen 590 21  VÄDERSTAD                                        
+Lundqvist, Haris [M]
+Sandviken 290 62  VISHULT                                        
+Lundberg, Ruben [M]
+Edeforsvägen 517 00  BOLLEBYGD                                        
+Andersson, Elwira [K]
+Klinta 361 00  EMMABODA                                        
+Blom, Anita [K]
+Esplanadgatan 740 46  ÖSTERVÅLA                                        
+Engström, Isabella [K]
+Edeforsvägen 517 00  BOLLEBYGD                                        
+Björklund, Nicolas [M]
+Långgatan 547 00  GULLSPÅNG                                        
+Hermansson, Jens [M]
+Sörbylund 520 10  GÄLLSTAD                                        
+Carlsson, Tilde [K]
+Skällebo 818 00  VALBO                                        
+Mårtensson, Elna [K]
+Östanlid 430 17  SKÄLLINGE                                        
+Lundberg, Edit [K]
+Gulleråsen 16, 372 61  RONNEBY                                        
+Martinsson, Henrik [M]
+Hålebäcksvägen 521 42  KINNARP                                        
+Lundqvist, Kasper [M]
+Björkvägen 310 42  HAVERDAL                                        
+Johnsson, Idun [K]
+Gökst 670 35  GUNNARSKOG                                        
+Arvidsson, Viola [K]
+Vikarna 450 70  HAMBURGSUND                                        
+Berggren, Dilara [K]
+Barrgatan 930 82  ABBORRTRÄSK                                        
+Nilsson, Ava [K]
+Skolspåret 620 12  HEMSE                                        
+Holmberg, Neo [M]
+Sandviken 716 70  FJUGESTA                                        
+Berglund, Oliver [M]
+Norrfjäll 760 21  VÄTÖ                                        
+Dahlberg, Hannes [M]
+Morvall 38, 820 43  KÅRBÖLE                                        
+Björk, Stephanie [K]
+Torvvägen 574 29  VETLANDA                                        
+Björklund, Leonard [M]
+Hagaskog 760 41  ARHOLMA                                        
+Nyman, Ellinore [K]
+Alsteråvägen 565 00  MULLSJÖ                                        
+Ivarsson, Carl [M]
+Söråsele 910 52  LÅNGBÄCKEN                                        
+Pettersson, Amadeus [M]
+Läktargatan 770 73  GARPENBERG                                        
+Sandberg, Lucas [M]
+Skärpinge 862 00  KVISSLEBY                                        
+Sjögren, Lucia [K]
+Torggatan 810 20  ÖSTERFÄRNEBO                                        
+Samuelsson, Marvin [M]
+Edeby 646 00  GNESTA                                        
+Lindholm, Ajdin [M]
+Främsteby 57, 374 50  ASARUM                                        
+Sjöberg, Tova [K]
+Västerviksgatan 560 27  TENHULT                                        
+Lindgren, Filip [M]
+Mållångsbo 284 00  PERSTORP                                        
+Carlsson, Kim [M]
+Djursbo 310 74  KINNARED                                        
+Nilsson, Karolina [K]
+Utveda 890 35  HUSUM                                        
+Berggren, Jordan [M]
+Anders Gränd 38, 270 21  GLEMMINGEBRO                                        
+Strömberg, Darin [M]
+Törneby 295 63  BROMÖLLA                                        
+Åberg, Jesper [M]
+Syrengården 436 99  HOVÅS                                        
+Johnsson, Nova [K]
+Klörupsvägen 523 86  ULRICEHAMN                                        
+Sandström, Marika [K]
+Åkerstigen 830 19  STORLIEN                                        
+Eriksson, Joanna [K]
+Sjötullsgatan 690 42  ZINKGRUVAN                                        
+Sundberg, Michael [M]
+Barkargatan 942 65  ÄLVSBYN                                        
+Björklund, Helin [K]
+Bursiljum 930 55  JÖRN                                        
+Eliasson, Magnus [M]
+Tulpanv 240 36  STEHAG                                        
+Olofsson, Annie [K]
+Kläppinge 190 63  ÖRSUNDSBRO                                        
+Axelsson, Mårten [M]
+Bössgränd 370 23  HASSLÖ                                        
+Blom, Åke [M]
+Tulpanv 310 61  ÄTRAN                                        
+Ekström, Niklas [M]
+Simpnäs 762 00  RIMBO                                        
+Larsson, Amilia [K]
+Östra 93, 741 73  KNIVSTA                                        
+Löfgren, Telma [K]
+Bottna 6, 133 62  SALTSJÖBADEN                                        
+Hedlund, Leila [K]
+Främsteby 20, 374 40  ASARUM                                        
+Karlsson, Elwira [K]
+Enbackagården 195 94  ROSERSBERG                                        
+Larsson, Medina [K]
+Käbbatorp 42, 541 33  VÄRSÅS                                        
+Andreasson, Sammy [M]
+Anders Gränd 54, 270 20  LÖDERUP                                        
+Eklund, Viola [K]
+Backsippestigen 431 56  MÖLNDAL                                        
+Mårtensson, Mark [M]
+Klubbvägen 770 65  BY KYRKBY                                        
+Lundin, Mohammad [M]
+Ånhult 388 19  TREKANTEN                                        
+Eriksson, Viktoria [K]
+Vikarna 457 30  TANUMSHEDE                                        
+Engström, Carl [M]
+Norrfjäll 760 18  YXLAN                                        
+Lundqvist, Leila [K]
+Edeby 611 51  NYKÖPING                                        
+Åström, Carolina [K]
+Gulleråsen 10, 660 30  VÄRMLANDS NYSÄTER                                        
+Lindholm, Stephanie [K]
+Främsteby 46, 244 48  FURULUND                                        
+Lundqvist, Maryama [K]
+Ellenö 790 23  SVÄRSDSJÖ                                        
+Berglund, Natanael [M]
+Skärpinge 863 00  SUNDSBRUK                                        
+Lund, Ester [K]
+Lemesjö 280 70  LÖNSBODA                                        
+Sundberg, Tea [K]
+Utveda 890 40  BREDBYN                                        
+Lundström, Angelica [K]
+Edeforsvägen 516 01  DALSJÖFORS                                        
+Lindgren, Rasmus [M]
+Föreningsgatan 810 60  SÖDERFORS                                        
+Sjögren, Elma [K]
+Kvillevägen 360 14  VÄCKELSÅNG                                        
+Olsson, Pascal [M]
+Löberöd 520 43  ÅSARP                                        
+Nyberg, Leonora [K]
+Västra Häggetorp 94, 920 52  BARSELE                                        
+Dahl, Mattis [M]
+Läktargatan 776 01  HEDEMORA                                        
+Björklund, Emanuel [M]
+Idvägen 360 70  ÅSEDA                                        
+Holmberg, Hanan [K]
+Läktargatan 260 34  MÖRARP                                        
+Ivarsson, Olov [M]
+Mjövattnet 870 24  SKOG                                        
+Norberg, Evelin [K]
+Mjölkalånga 520 30  LJUNG                                        
+Petersson, Izak [M]
+Klinta 361 05  LÅNGASJÖ                                        
+Lindgren, Elliott [M]
+Syrengården 436 59  HOVÅS                                        
+Danielsson, Marcus [M]
+Bottna 17, 450 53  HÄLLEVADSHOLM                                        
+Berglund, Markus [M]
+Nittsjö 81, 790 60  VIKARBYN                                        
+Hansson, Milan [M]
+Östantorp 56, 360 44  INGELSTAD                                        
+Johnsson, Hussein [M]
+Esplanadgatan 744 64  HEBY                                        
+Hermansson, Milly [K]
+Nytorpsvägen 960 30  VUOLLERIM                                        
+Öberg, Nadine [K]
+Brunnevägen 680 71  BJÖRNEBORG                                        
+Lindström, Amalia [K]
+Gärdslösa 147 77  TUMBA                                        
+Lindberg, Mary [K]
+Käbbatorp 70, 820 23  BERGVIK                                        
+Lundin, Jasmine [K]
+Utveda 891 78  BONÄSSUND                                        
+Hermansson, Matteus [M]
+Norrfjäll 930 61  BASTURTRÄSK                                        
+Löfgren, Magnus [M]
+Hagag 695 00  LAXÅ                                        
+Danielsson, Liam [M]
+Östbygatan 312 20  MELLBYSTRAND                                        
+Jonasson, Nima [M]
+Höjdstigen 599 00  ÖDESHÖG                                        
+Nordström, Brian [M]
+Orrspelsv 920 25  HORNMYR                                        
+Isaksson, Dominic [M]
+Nittsjö 47, 910 44  ÅNÄSET                                        
+Larsson, Petrus [M]
+Sandviken 716 46  MULLHYTTAN                                        
+Jonsson, Levi [M]
+Håbyn 640 30  HÄLLEFORSNÅS                                        
+Sundström, Lara [K]
+Morvall 27, 820 40  JÄRVSÖ                                        
+Göransson, Yahya [M]
+Överhogdal 430 63  HINDÅS                                        
+Sundström, Theodore [M]
+Grängsbo 38, 820 03  VIKSJÖFORS                                        
+Söderström, Indra [K]
+Kläppinge 241 86  ESLÖV                                        
+Johnsson, Wiktor [M]
+Buanvägen 840 91  VEMHÅN                                        
+Lundström, Dexter [M]
+Lillesäter 66, 810 40  HEDESUNDA                                        
+Lindholm, Angelina [K]
+Främsteby 99, 376 00  SVÄNGSTA                                        
+Samuelsson, Fideli [K]
+Buanvägen 840 92  VEMDALEN                                        
+Björk, Patricia [K]
+Esplanadgatan 282 00  TYRINGE                                        
+Dahl, Stefan [M]
+Främsteby 21, 641 30  KATRINEHOLM                                        
+Hansson, Ebbe [M]
+Mjövattnet 870 52  NYLAND                                        
+Ivarsson, Tess [K]
+Åkerstigen 830 04  MÖRSIL                                        
+Jonasson, Andy [M]
+Valldammsgatan 186 53  VALLENTUNA                                        
+Söderberg, Brian [M]
+Ängsv 796 00  ÄLVDALEN                                        
+Jansson, Nilas [M]
+Mjölkalånga 263 36  HÖGANÄS                                        
+Martinsson, Elvin [M]
+Östanlid 430 17  SKÄLLINGE                                        
+Lund, Luka [M]
+Vakthem 260 70  LJUBGBYHED                                        
+Pettersson, Katja [K]
+Tjörneröd 680 61  BOGRANGEN                                        
+Engström, Ellie [K]
+Ånhult 388 76  TREKANTEN                                        
+Lindström, Mika [K]
+Nybyvägen 330 15  BOR                                        
+Arvidsson, Melker [M]
+Åbyhöjden 594 00  GAMLEBY                                        
+Svensson, Elissa [K]
+Vipgränden 910 90  STORSELEBY                                        
+Magnusson, Kristina [K]
+Tjörneröd 680 65  HÖLJES                                        
+Ivarsson, Colin [M]
+Bössgränd 370 45  FÅGELMARA                                        
+Jonasson, Ragnar [M]
+Fällberg 466 00  SOLLEBRUNN                                        
+Svensson, Yousef [M]
+Främsteby 40, 640 25  JULITA                                        
+Söderberg, Pernilla [K]
+Enbackagården 270 57  KIVIK                                        
+Göransson, Joseph [M]
+Eriksbo 15, 430 85  BRÄNNÖ                                        
+Andersson, Elizabeth [K]
+Västra Häggetorp 23, 640 60  ÅKERS STYCKEBRUK                                        
+Eklund, Mille [M]
+Eggelstad 532 70  AXVALL                                        
+Danielsson, Lydia [K]
+Klörupsvägen 520 11  VEGBY                                        
+Svensson, Matilde [K]
+Gärdslösa 147 22  UTTRAN                                        
+Lund, Baran [M]
+Skolspåret 533 71  KÄLLBY                                        
+Holmberg, Kelvin [M]
+Simpnäs 761 63  NORRTÄLJE                                        
+Nilsson, Cesar [M]
+Föreningsgatan 860 33  BERGEFORSEN                                        
+Nyström, Cesar [M]
+Korsgatan 830 90  GÄDDEDE                                        
+Martinsson, Emmelie [K]
+Käbbatorp 60, 820 23  BERGVIK                                        
+Ekström, Elia [M]
+Hagaskog 610 24  VIKBOLANDET                                        
+Lindholm, Dylan [M]
+Södra 92, 273 85  SMEDSTORP                                        
+Söderström, Iza [K]
+Östantorp 66, 360 32  GEMLA                                        
+Blom, Judith [K]
+Loftaheden 670 43  SKILLINGSFORS                                        
+Sundström, Matheo [M]
+Magasinsgatan 833 00  STRÖMSUND                                        
+Löfgren, Anja [K]
+Bursiljum 930 10  LÖVÅNGER                                        
+Petersson, Milan [M]
+Edeby 610 55  STIGTOMTA                                        
+Bergqvist, Caspar [M]
+Hagaskog 760 44  BARNENS Ö                                        
+Sundberg, Tore [M]
+Utveda 280 40  SKÅNES FAGERHULT                                        
+Fransson, Angelo [M]
+Gamla 72, 511 81  ÄLEKULLA                                        
+Gustavsson, Nima [M]
+Björkvägen 310 44  GETINGE                                        
+Lindström, Evelina [K]
+Mjölkalånga 252 38  RÅÅ                                        
+Sjöberg, Stephanie [K]
+Backsippestigen 595 15  MJÖLBY                                        
+Jönsson, Signe [K]
+Östanlid 430 10  TVÅÅKER                                        
+Åberg, Samuel [M]
+Klövervägen 595 24  ÅTVIDABERG                                        
+Lundgren, Marwin [M]
+Stallstigen 740 73  HARGSHAMN                                        
+Isaksson, Egil [M]
+Vansövägen 510 21  SÄTILA                                        
+Petersson, Adela [K]
+Korsträsk 440 45  NÖDINGE                                        
+Karlsson, Anthon [M]
+Storgatan 136 40  HANINGE                                        
+Andreasson, Doris [K]
+Törneby 295 17  NYMÖLLA                                        
+Löfgren, Emeli [K]
+Norra 98, 380 53  FLISERYD                                        
+Bergström, Märtha [K]
+Figgeberg 27, 614 00  SÖDERKÖPING                                        
+Eliasson, Stephanie [K]
+Storgatan 663 00  SKOGHALL                                        
+Norberg, Amar [M]
+Bursiljum 930 21  BYGDSILJUM                                        
+Danielsson, Melwin [M]
+Backsippestigen 596 00  SKÄNNINGE                                        
+Lundberg, Noomi [K]
+Norrfjäll 935 24  NORSJÖ                                        
+Jakobsson, Evelyn [K]
+Södra 92, 440 60  SKÄRHAMN                                        
+Forsberg, Tuva [K]
+Ovansjövägen 780 10  GUSTAFS                                        
+Björklund, Christofer [M]
+Ovansjövägen 195 71  ARLANDA STAD                                        
+Björklund, Belinda [K]
+Djursbo 820 64  NÄSVIKEN                                        
+Bergqvist, Isabella [K]
+Djursbo 570 81  JÄRNFORSEN                                        
+Ivarsson, Gabriella [K]
+Trädgårdsgatan 820 67  ENÅNGER                                        
+Henriksson, Lina [K]
+Fällberg 441 90  ALINGSÅS                                        
+Bengtsson, Karla [K]
+Koppramåla 370 42  TORHAMN                                        
+Bergman, Evelin [K]
+Korsträsk 440 45  NÖDINGE                                        
+Nyberg, Sanna [K]
+Östanlid 510 11  KUNGSÄTER                                        
+Blomqvist, Sami [M]
+Hagag 443 75  STENKULLEN                                        
+Persson, Cindy [K]
+Morvall 66, 714 01  KOPPARBERG                                        
+Gustavsson, Tilly [K]
+Lillesäter 780 41  GAGNEF                                        
+Nilsson, Milan [M]
+Grängsbo 13, 950 95  JUOKSENGI                                        
+Lundgren, Amadeus [M]
+Mjövattnet 870 30  NORDINGRÅ                                        
+Abrahamsson, Egil [M]
+Backsippestigen 595 97  MJÖLBY                                        
+Berg, Victoria [K]
+Villagatan 890 15  ULVÖHAMN                                        
+Olofsson, Ellie [K]
+Barkargatan 940 45  VIDSEL                                        
+Hermansson, Zeinab [K]
+Sörbylund 135 90  TYRESÖ                                        
+Bergman, Allan [M]
+Klörupsvägen 910 34  HOLMÖN                                        
+Karlsson, Abdullah [M]
+Änggårda 31, 620 13  STÅNGA                                        
+Sandberg, Zahraa [K]
+Knektv 770 13  GRANGÄRDE                                        
+Lundberg, Elmer [M]
+Lemesjö 572 18  OSKARHAMN                                        
+Dahl, Lizette [K]
+Dadelvägen 740 71  ÖREGRUND                                        
+Ivarsson, Emely [K]
+Långgatan 683 00  HAGFORS                                        
+Wallin, Vilde [M]
+Torvvägen 912 02  LATIKBERG                                        
+Strömberg, Walid [M]
+Åbyhöjden 590 98  EDSBRUK                                        
+Berglund, Myra [K]
+Djursbo 570 80  VIRSERUM                                        
+Lundgren, Noak [M]
+Storgatan 137 72  VÄSTERHANINGE                                        
+Åberg, Eira [K]
+Norra 93, 384 23  ÅLEM                                        
+Göransson, Izabelle [K]
+Fornäng 590 60  LJUNGSBRO                                        
+Sandberg, Leandro [M]
+Alingsåsvägen 513 00  FRISTAD                                        
+Larsson, Harun [M]
+Törneby 295 15  GUALÖV                                        
+Söderberg, Timothy [M]
+Hökgatan 510 53  APLARED                                        
+Månsson, Karim [M]
+Överhogdal 435 31  MÖLNLYCKE                                        
+Sundström, Elof [M]
+Bodbysund 730 91  RIDDARHYTTAN                                        
+Hedlund, Justin [M]
+Tjörneröd 680 52  AMBJÖRBY                                        
+Norberg, Abel [M]
+Skolspåret 620 24  DALHEM                                        
+Lindström, Marielle [K]
+Anders Gränd 26, 270 20  LÖDERUP                                        
+Holm, Hussein [M]
+Nöjesgatan 780 53  NÅS                                        
+Lundin, Egil [M]
+Långgatan 680 50  EKSHÄRAD                                        
+Johansson, Silvia [K]
+Fuglie 194 40  UPPLANDS VÄSBY                                        
+Söderström, Nelly [K]
+Valldammsgatan 462 37  VÄNERSBORG                                        
+Lundström, Fred [M]
+Håbyn 640 34  SPARREHOLM                                        
+Gustavsson, Fatma [K]
+Luddingsbo 16, 107 35  STOCKHOLM                                        
+Olofsson, Armin [M]
+Esplanadgatan 288 00  VINSLÖV                                        
+Karlsson, Minna [K]
+Nils Sträte 64, 123 11  FARSTA                                        
+Lundström, Melissa [K]
+Dyvik 890 11  SIDENSJÖ                                        
+Berg, Marko [M]
+Granträsk 260 83  VEJBYSTRAND                                        
+Göransson, Harald [M]
+Magasinsgatan 830 81  NORRÅKER                                        
+Nyman, Leo [M]
+Buanvägen 840 94  TÄNNÄS                                        
+Abrahamsson, Siri [K]
+Knektvägen 954 97  SÖDRA SUNDERBYN                                        
+Håkansson, Leila [K]
+Bottna 91, 133 15  SALTSJÖBADEN                                        
+Mårtensson, Mille [M]
+Gärdslösa 232 67  ÅKARP                                        
+Karlsson, Tore [M]
+Klörupsvägen 913 00  HOLMSUND                                        
+Nyman, Eveline [K]
+Vakthem 870 26  BJÄRTRÅ                                        
+Larsson, Louise [K]
+Granträsk 262 82  ÄNGELHOLM                                        
+Bergström, Elsa [K]
+Lantmannagatan 570 76  RUDA                                        
+Engström, Zahraa [K]
+Stallstigen 740 73  HARGSHAMN                                        
+Sjögren, Harun [M]
+Nöjesgatan 780 50  VANSBRO                                        
+Persson, Mika [K]
+Messlingen 840 80  LILLHÄRDAL                                        
+Johnsson, Li [K]
+Norrfjäll 763 03  SKEBOBRUK                                        
+Dahl, Ebbe [M]
+Åbyhöjden 360 43  ÅRYD                                        
+Blom, Jonathan [M]
+Dyvik 891 26  ÖRNSKÖLDSVIK                                        
+Berglund, Alice [K]
+Ovansjövägen 576 00  SÄVSJÖ                                        
+Eriksson, Niklas [M]
+Syrengården 425 30  HISINGS KÄRRA                                        
+Carlsson, Amar [M]
+Bodbysund 931 96  SKELLEFTEÅ                                        
+Holmberg, Joar [M]
+Kvillevägen 440 64  RÖNNÄNG                                        
+Öberg, Josef [M]
+Västerviksgatan 950 42  MORJÄRV                                        
+Hermansson, Lilian [K]
+Koppramåla 660 52  EDSVALLA                                        
+Gustafsson, Simona [K]
+Skolspåret 620 34  LÄRBRO                                        
+Andreasson, Petter [M]
+Karlsängen 149 47  NYNÄSHAMN                                        
+Petersson, Bianca [K]
+Höjdstigen 293 61  OLOFSTRÖM                                        
+Holmberg, Alec [M]
+Tjörneröd 573 37  TRANÅS                                        
+Bergström, Lo [K]
+Östanlid 430 20  VEDDIGE                                        
+Isaksson, Olov [M]
+Korsträsk 440 45  NÖDINGE                                        
+Karlsson, Niklas [M]
+Bursiljum 930 10  LÖVÅNGER                                        
+Ström, Alfons [M]
+Knektvägen 951 98  LULEÅ                                        
+Jakobsson, Allan [M]
+Löberöd 520 40  FLOBY                                        
+Göransson, Magnus [M]
+Simpnäs 762 00  RIMBO                                        
+Fransson, Tim [M]
+Törneby 295 23  NYMÖLLA                                        
+Andreasson, Seth [M]
+Änggårda 7, 620 13  STÅNGA                                        
+Lundström, Majken [K]
+Simpnäs 760 42  BJÖRKÖ                                        
+Dahl, Meja [K]
+Främsteby 20, 244 65  FURULUND                                        
+Eliasson, Leopold [M]
+Brunnevägen 680 71  BJÖRNEBORG                                        
+Björklund, Razmus [M]
+Lillesäter 983 92  MALMBERGET                                        
+Göransson, Allan [M]
+Höjdstigen 430 93  HÄLSÖ                                        
+Lundberg, Wilmer [M]
+Nybyvägen 724 51  VÄSTERÅS                                        
+Ek, Maj [K]
+Östanlid 430 20  VEDDIGE                                        
+Blomqvist, Nikki [K]
+Hökgatan 820 12  RENGSJÖ                                        
+Larsson, Henric [M]
+Kläppinge 190 70  FJÄRDHUNDRA                                        
+Bengtsson, Rim [K]
+Stackekärr 910 02  RUNDVIK                                        
+Öberg, Christian [M]
+Långgatan 680 50  EKSHÄRAD                                        
+Norberg, Alfons [M]
+Hantverkarg 130 39  SANDHAMN                                        
+Åberg, Karin [K]
+Hagag 695 00  LAXÅ                                        
+Nyman, Malte [M]
+Mogata 86, 510 60  ÖVERLIDA                                        
+Hellström, Elvis [M]
+Föreningsgatan 860 30  SÖRBERGE                                        
+Sundström, Rasmus [M]
+Eriksbo 80, 402 00  GÖTEBORG                                        
+Magnusson, Tiffany [K]
+Gulleråsen 47, 372 88  KALLINGE                                        
+Hermansson, Melanie [K]
+Käbbatorp 31, 540 15  VÄRING                                        
+Arvidsson, Elina [K]
+Västra 91, 980 26  BJÖRKLIDEN                                        
+Magnusson, Caspar [M]
+Kantorsvägen 312 84  VEINGE                                        
+Fredriksson, Elisabet [K]
+Nybyvägen 330 12  FORSHEDA                                        
+Löfgren, Telma [K]
+Luddingsbo 56, 121 10  STOCKHOLM-GLOBEN                                        
+Petersson, Melwin [M]
+Bodbysund 931 38  SKELLEFTEÅ                                        
+Eliasson, Malin [K]
+Barkargatan 662 00  ÅMÅL                                        
+Bergqvist, Amadeus [M]
+Östra 74, 743 00  STORVRETA                                        
+Jakobsson, Freddie [M]
+Alingsåsvägen 515 00  VISKAFORS                                        
+Dahl, Indra [K]
+Hundbergsvägen 830 15  DUVED                                        
+Lindström, Olof [M]
+Östantorp 41, 358 02  VÄXJÖ                                        
+Berglund, Nadja [K]
+Buanvägen 840 92  VEMDALEN                                        
+Berggren, Tina [K]
+Östantorp 99, 360 40  ROTTNE                                        
+Bergqvist, Jolina [K]
+Kaptensgränd 310 83  UNNARYD                                        
+Nyström, Yrsa [K]
+Esplanadgatan 280 10  SÖSDALA                                        
+Johnsson, Zackarias [M]
+Figgeberg 46, 153 00  JÄRNA                                        
+Karlsson, Felicia [K]
+Anders Gränd 72, 270 21  GLEMMINGEBRO                                        
+Bengtsson, Mira [K]
+Vikarna 815 83  MÅNKARBO                                        
+Engström, Emy [K]
+Föreningsgatan 861 00  TIMRÅ                                        
+Lundqvist, Maryama [K]
+Löberöd 311 90  FALKENBERG                                        
+Sandberg, Allis [K]
+Vikarna 450 71  FJÄLLBACKA                                        
+Nyström, Razmus [M]
+Klubbvägen 269 01  BÅSTAD                                        
+Johansson, Ina [K]
+Koppramåla 370 33  TVING                                        
+Lindberg, Ottilia [K]
+Backsippestigen 464 38  MELLERUD                                        
+Martinsson, Marielle [K]
+Vansövägen 287 44  STRÖMNÄSBRUK                                        
+Nordström, Lisa [K]
+Lillesäter 669 00  DEJE                                        
+Fransson, Henrik [M]
+Håbyn 610 13  LOTORP                                        
+Ivarsson, Caesar [M]
+Lantmannagatan 570 76  RUDA                                        
+Björk, Henric [M]
+Kläppinge 190 63  ÖRSUNDSBRO                                        
+Norberg, Antonio [M]
+Östanlid 432 53  ÅSKLOSTER                                        
+Persson, Alessandro [M]
+Mållångsbo 980 66  LOVIKKA                                        
+Sundberg, Ture [M]
+Figgeberg 39, 155 00  NYKVARN                                        
+Andersson, Norea [K]
+Hagag 695 00  LAXÅ                                        
+Persson, Mikaela [K]
+Ånhult 393 43  KALMAR                                        
+Lindberg, Novalie [K]
+Vikarna 450 70  HAMBURGSUND                                        
+Danielsson, Algot [M]
+Fornäng 460 10  LÖDÖSE                                        
+Dahl, Tuwa [K]
+Lillesäter 49, 817 02  BERGBY                                        
+Hedlund, Sebastian [M]
+Morvall 37, 820 46  RAMSJÖ                                        
+Holm, Lucas [M]
+Loftaheden 670 41  KOPPOM                                        
+Jansson, Nicolai [M]
+Ängsv 340 20  LIATORP                                        
+Ivarsson, Mohamad [M]
+Idvägen 592 00  VADSTENA                                        
+Berggren, Timothy [M]
+Enbackagården 190 45  STOCKHOLM-ARLANDA                                        
+Dahlberg, Waldemar [M]
+Läktargatan 776 01  HEDEMORA                                        
+Jonsson, Tore [M]
+Valldammsgatan 610 41  RINGARUM                                        
+Magnusson, Edit [K]
+Föreningsgatan 810 65  SKÄRPLINGE                                        
+Berglund, Justin [M]
+Stackekärr 820 72  STRÖMSBRUK                                        
+Johnsson, Emelie [K]
+Libecksvägen 313 03  ÅLED                                        
+Jonsson, Oliwia [K]
+Karlsängen 430 94  BOHUS-BJÖRKÖ                                        
+Eliasson, Cindy [K]
+Skolspåret 620 35  FÅRÖSUND                                        
+Sandberg, Rebecka [K]
+Stackekärr 820 74  STOCKA                                        
+Mattsson, Deniz [M]
+Knektv 770 13  GRANGÄRDE                                        
+Lindholm, Ali [M]
+Mogata 73, 510 62  MÅRDAKLEV                                        
+Berggren, Ville [M]
+Trädgårdsgatan 242 61  HÖRBY                                        
+Nyström, Nicklas [M]
+Barrgatan 930 82  ABBORRTRÄSK                                        
+Nyström, Li [K]
+Löberöd 310 60  ULLARED                                        
+Åström, Yrsa [K]
+Barkargatan 942 41  VISTTRÄSK                                        
+Nyström, Hampus [M]
+Handslagarevägen 230 96  KLAGSHMAN                                        
+Sundström, Maia [K]
+Violvägen 660 11  BILLINGSFORS                                        
+Jansson, Nicolina [K]
+Nytorpsvägen 564 00  BANKERYD                                        
+Olofsson, Thea [K]
+Mjövattnet 872 00  KRAMFORS                                        
+Nordström, Nadia [K]
+Edeforsvägen 513 02  BORGSTENA                                        
+Ström, Jakob [M]
+Hantverkarg 130 33  GÄLLNÖBY                                        
+Lund, Mateo [M]
+Lillesäter 70, 814 88  FURUVIK                                        
+Sjöberg, Rania [K]
+Morvall 16, 820 42  KORSKROGEN                                        
+Andersson, Joanna [K]
+Bottna 46, 820 77  GNARP                                        
+Johnsson, Norah [K]
+Klubbvägen 269 01  BÅSTAD                                        
+Blomqvist, Lukas [M]
+Nytorpsvägen 563 00  GRÄNNA                                        
+Hedlund, Maja [K]
+Järnvägsgatan 578 00  ANEBY                                        
+Isaksson, Emin [M]
+Esplanadgatan 740 41  MORGONGÅVA                                        
+Petersson, Vilgot [M]
+Backsippestigen 464 48  ÅSENSBRUK                                        
+Söderström, Patricia [K]
+Västra Häggetorp 72, 920 66  HEMAVAN                                        
+Johansson, Magnus [M]
+Figgeberg 26, 880 37  JUNSELE                                        
+Åkesson, Nikola [M]
+Pite 89, 840 76  STUGUN                                        
+Lundgren, Zacharias [M]
+Gamla 69, 511 69  BERGHEM                                        
+Mårtensson, Hannes [M]
+Simpnäs 760 15  GRÄDDÖ                                        
+Lundström, Melker [M]
+Östra 6, 740 11  LÄNNAHOLM                                        
+Ek, Zara [K]
+Hagagatan 531 86  JÄRPÅS                                        
+Nyström, Elvis [M]
+Kaptensgränd 314 02  LÅNGARYD                                        
+Lindberg, Matthias [M]
+Lemesjö 130 25  INGMARSÖ                                        
+Fredriksson, Mårten [M]
+Simpnäs 763 37  HALLSTAVIK                                        
+Persson, Magdalena [K]
+Klinta 361 00  EMMABODA                                        
+Ekström, Matilda [K]
+Bonaröd 510 95  DALSTORP                                        
+Månsson, Marcus [M]
+Stackekärr 914 03  NORRFORS                                        
+Pettersson, Douglas [M]
+Änggårda 13, 620 33  TINGSTÄDE                                        
+Jonasson, Bilal [M]
+Luddingsbo 26, 100 05  HUSARÖ                                        
+Ekström, Joline [K]
+Bottna 95, 570 22  FORSERUM                                        
+Månsson, Joar [M]
+Koppramåla 654 08  KARLSTAD                                        
+Åström, Aisha [K]
+Skällebo 333 02  BROARYD                                        
+Nyberg, Elmer [M]
+Bodbysund 540 16  TIMMERSDALA                                        
+Lindholm, Amy [K]
+Utveda 890 31  ARNÄSVALL                                        
+Engström, Johnny [M]
+Näsåkersv 230 42  TYGELSJÖ                                        
+Lundström, Nellie [K]
+Mållångsbo 980 64  MUODOSLOMPOLO                                        
+Nilsson, Philippa [K]
+Nästvattnet 297 12  EVERÖD                                        
+Dahl, Oliver [M]
+Käbbatorp 15, 770 20  SÖDERBÄRK                                        
+Nyström, Iza [K]
+Dadelvägen 289 00  KNISLINGE                                        
+Ivarsson, Felizia [K]
+Skällebo 330 27  HESTRA                                        
+Dahl, Kian [M]
+Långgatan 683 03  RÅDA                                        
+Isaksson, Lana [K]
+Valldammsgatan 468 29  VARGÖN                                        
+Nordström, Hilma [K]
+Dyvik 890 14  KÖPMANHOLMEN                                        
+Sundström, Dennis [M]
+Mjölkalånga 813 00  HOFORS                                        
+Sundberg, Tilly [K]
+Skolspåret 533 76  HÄLLEKIS                                        
+Pettersson, Timothy [M]
+Törneby 182 33  DANDERYD                                        
+Åberg, Åsa [K]
+Kläppinge 640 40  STORA SUNDBY                                        
+Jonasson, Othilia [K]
+Norrfjäll 760 21  VÄTÖ                                        
+Gustafsson, Lucia [K]
+Ellenö 612 61  FINSPÅNG                                        
+Bergström, Natali [K]
+Mållångsbo 984 87  PAJALA                                        
+Nyström, Molly [K]
+Alingsåsvägen 510 45  SPARSÖR                                        
+Löfgren, Melvin [M]
+Lillesäter 780 44  DALA-FLODA                                        
+Berggren, Gordon [M]
+Näsåkersv 782 53  MALUNG                                        
+Sandberg, Saga [K]
+Torggatan 810 20  ÖSTERFÄRNEBO                                        
+Ekström, Joshua [M]
+Mogata 88, 233 00  SVEDALA                                        
+Danielsson, Siri [K]
+Syrengården 420 17  OLOFSTORP                                        
+Eriksson, Nikki [K]
+Sörbylund 523 73  GRÖNAHÖG                                        
+Jönsson, Valentin [M]
+Mjölkalånga 260 30  VALLÅKRA                                        

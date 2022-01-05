@@ -1,0 +1,4 @@
+Ange 2 heltal: 
+1 + 2 blir 3
+1 · 2 blir 2
+
